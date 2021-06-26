@@ -1,2 +1,37 @@
 # Privacy
-Everything you need to know about security and privacy
+
+1. - [x] [Лекция 05. Security and Privacy](https://www.youtube.com/watch?v=PlL44J5OOWQ&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD%E2%80%94%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F)
+2. http://samag.ru/uart/more/53
+
+## Security and Privacy
+Security - насколько вы можете не бояться за сохранность ваших данных (защита данных)
+
+Privacy - насколько вы можете контролировать какими данными вы делитесь (защиты личности пользователя)
+
+Хранение паролей текстом - это плохо, потому что
+!!! Для хранения паролей можно использовать [KeePass](https://keepass.info/)
+
+## Энтропия
+
+
+## Подсчет энтропии
+
+`H(пароль) = L*(lnN/ln2)`
+
+где:
+L – длина символов в пароле - [можно посмотреть длину (Length) здесь](http://rumkin.com/tools/password/passchk.php);
+N – количество символов в используемом алфавите - [можно посмотреть количество вариаций символов (Charset Size)](http://rumkin.com/tools/password/passchk.php);
+ln – натуральный логарифм, т.е. логарифм по основанию е = 2,71828
+
+В частности, энтропия самого легкого для взлома пароля 123456 находится следующим образом:
+
+`H(123456) = 6*(ln10/ln2) = 19,9` Таким образом, пароль слишком легкий.
+
+**!!! Стремитесь как минимум к 70 битам !!!**
+
+Подсчет [энтропии онлайн](https://www.antivirus.promo/password-strength-checker).
+
+
+
+
+
