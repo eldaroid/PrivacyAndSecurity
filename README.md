@@ -4,6 +4,7 @@
 
 1. - [x] [Лекция 05. Security and Privacy](https://www.youtube.com/watch?v=PlL44J5OOWQ&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD%E2%80%94%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F)
 2. - [x] [Какой пароль защитит от взлома](http://samag.ru/uart/more/53)
+3. - [x] [The New Oil](https://thenewoil.xyz/)
 
 ## Security and Privacy
 
