@@ -5,8 +5,8 @@
 1. - [x] [Лекция 05. Security and Privacy](https://www.youtube.com/watch?v=PlL44J5OOWQ&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD%E2%80%94%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F)
 2. - [x] [Какой пароль защитит от взлома](http://samag.ru/uart/more/53)
 3. - [x] [The New Oil](https://thenewoil.xyz/)
-4. - [x] [КАК ВЗЛОМАТЬ СИСТЕМУ? — ТОПЛЕС](https://www.youtube.com/watch?v=l9d1HXE7SH0&t=609s&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
-5. - [x] [КАК ЗА НАМИ СЛЕДЯТ? — ТОПЛЕС](https://www.youtube.com/watch?v=qBDbO_bAdFM&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
+4. - [x] [КАК ЗА НАМИ СЛЕДЯТ? — ТОПЛЕС](https://www.youtube.com/watch?v=qBDbO_bAdFM&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
+5. - [x] [КАК ВЗЛОМАТЬ СИСТЕМУ? — ТОПЛЕС](https://www.youtube.com/watch?v=l9d1HXE7SH0&t=609s&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
 6. - [x] [КИБЕРОГРАБЛЕНИЕ ВЕКА — ТОПЛЕС](https://www.youtube.com/watch?v=uYpBIrhW114&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
 7. - [x] [НА ЧТО СПОСОБНО КИБЕРОРУЖИЕ? — ТОПЛЕС](https://www.youtube.com/watch?v=pBSGl2uq3_4&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
 
