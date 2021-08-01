@@ -7,6 +7,8 @@
 3. - [x] [The New Oil](https://thenewoil.xyz/)
 4. - [x] [КАК ВЗЛОМАТЬ СИСТЕМУ? — ТОПЛЕС](https://www.youtube.com/watch?v=l9d1HXE7SH0&t=609s&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
 5. - [x] [КАК ЗА НАМИ СЛЕДЯТ? — ТОПЛЕС](https://www.youtube.com/watch?v=qBDbO_bAdFM&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
+6. - [x] [КИБЕРОГРАБЛЕНИЕ ВЕКА — ТОПЛЕС](https://www.youtube.com/watch?v=uYpBIrhW114&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
+7. - [x] [НА ЧТО СПОСОБНО КИБЕРОРУЖИЕ? — ТОПЛЕС](https://www.youtube.com/watch?v=pBSGl2uq3_4&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
 
 ## Security and Privacy
 
