@@ -85,7 +85,7 @@
 
   * Лучший бесплатный **VPN** - nordVPN.
   * !!! Старайтесь не подключаться к публичным точкам WiFi, они сделаны так, что запоминание идёт по именам точек и их легко подделать. Приватные WiFi точки достаточно безопасны.
-  * [KeePass](https://keepassxc.org/) для хранения паролей
+  * [KeePassXC](https://keepassxc.org/) для хранения паролей
   * [UBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) (антифишинг) - расширение для Chrome для блокирования рекламы и блокирования входа на сайты c плохой репутацией.
   * [Yubikey](https://www.yubico.com/) для предотвращения фишинговых атак на себя
   * Протокол для wi-fi, который безопасный - VPA2
