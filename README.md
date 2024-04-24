@@ -5,10 +5,10 @@
 1. - [x] [Лекция 05. Security and Privacy](https://www.youtube.com/watch?v=PlL44J5OOWQ&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD%E2%80%94%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F)
 2. - [x] [Какой пароль защитит от взлома](http://samag.ru/uart/more/53)
 3. - [x] [The New Oil](https://thenewoil.xyz/)
-4. - [x] [КАК ЗА НАМИ СЛЕДЯТ? — ТОПЛЕС](https://www.youtube.com/watch?v=qBDbO_bAdFM&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
-5. - [x] [КАК ВЗЛОМАТЬ СИСТЕМУ? — ТОПЛЕС](https://www.youtube.com/watch?v=l9d1HXE7SH0&t=609s&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
-6. - [x] [КИБЕРОГРАБЛЕНИЕ ВЕКА — ТОПЛЕС](https://www.youtube.com/watch?v=uYpBIrhW114&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
-7. - [x] [НА ЧТО СПОСОБНО КИБЕРОРУЖИЕ? — ТОПЛЕС](https://www.youtube.com/watch?v=pBSGl2uq3_4&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
+4. - [x] [Как за нами следят? — ТОПЛЕС](https://www.youtube.com/watch?v=qBDbO_bAdFM&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
+5. - [x] [Как взломали систему? — ТОПЛЕС](https://www.youtube.com/watch?v=l9d1HXE7SH0&t=609s&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
+6. - [x] [Киберограбление века — ТОПЛЕС](https://www.youtube.com/watch?v=uYpBIrhW114&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
+7. - [x] [На что способно кибероружие? — ТОПЛЕС](https://www.youtube.com/watch?v=pBSGl2uq3_4&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
 
 ## Security and Privacy
 
@@ -22,11 +22,13 @@
 
 ![](https://camo.githubusercontent.com/a426969729d7cb92c2fd86080bb567fed31f61908bf323873d7ce50af30ba1db/68747470733a2f2f696d67732e786b63642e636f6d2f636f6d6963732f70617373776f72645f737472656e6774682e706e67)
 
-### Энтропия
+> [Здесь](https://haveibeenpwned.com/Passwords) можно проверить свой крутой **пароль**, не засветился ли он в слитых базах. А [тут](https://haveibeenpwned.com/) можно посмотреть сколько сервисов было взломано, где фигурировал ваш **email**, и, соответственно, выяснить, не скомпрометирован ли ваш пароль.
+
+## Энтропия
 
 Энтропия пароля - сложность пароля, измеряемая в битах. С точки зрения взлома методом полного перебора (brute-force attack) устойчивость пароля к хакерским атакам сильно зависит как от его длины, так и от используемого набора знаков. 
 
-### Подсчет энтропии
+#### Подсчет энтропии
 
 `H(пароль) = L*(lnN/ln2)`
 
@@ -83,7 +85,7 @@
 
 ### Чему надо придерживаться?
 
-  * Лучший бесплатный **VPN** - nordVPN.
+  * Норм бесплатный **VPN** - nordVPN.
   * !!! Старайтесь не подключаться к публичным точкам WiFi, они сделаны так, что запоминание идёт по именам точек и их легко подделать. Приватные WiFi точки достаточно безопасны.
   * [KeePassXC](https://keepassxc.org/) для хранения паролей
   * [UBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) (антифишинг) - расширение для Chrome для блокирования рекламы и блокирования входа на сайты c плохой репутацией.
@@ -91,7 +93,7 @@
   * Протокол для wi-fi, который безопасный - VPA2
   * Двух-факторная аутентификация только вместе с Authentificator App, никаких SMS
 
-Если Вы хотите ультимативный гайд, то можете прочитать [эту заметку](https://techsolidarity.org/resources/basic_security.htm) для журналистов в США, которые ездят в ближний восток для репортажей. Если кратко: `всё выше перечисленное + Chromebook + Signal/WhatsApp, Windows Defender и никаких антивирусов + только IPhone и закленные веб камеры.`
+Если Вы хотите ультимативный гайд, то можете прочитать [эту заметку](https://techsolidarity.org/resources/basic_security.htm) для журналистов в США, которые ездят в ближний восток для репортажей. Если кратко: `всё выше перечисленное + Chromebook + Signal вместо WhatsApp + Windows Defender и никаких антивирусов + только IPhone и закленные веб камеры.`
 
 
 ## Популярные личности и безопасность
