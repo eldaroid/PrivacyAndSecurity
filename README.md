@@ -9,6 +9,7 @@
 5. - [x] [Как взломали систему? — ТОПЛЕС](https://www.youtube.com/watch?v=l9d1HXE7SH0&t=609s&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
 6. - [x] [Киберограбление века — ТОПЛЕС](https://www.youtube.com/watch?v=uYpBIrhW114&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
 7. - [x] [На что способно кибероружие? — ТОПЛЕС](https://www.youtube.com/watch?v=pBSGl2uq3_4&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
+8. - [x] (https://habr.com/ru/companies/ua-hosting/articles/430982/)
 
 ## Security and Privacy
 
