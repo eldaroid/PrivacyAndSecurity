@@ -6,10 +6,9 @@
 2. - [x] [Какой пароль защитит от взлома](http://samag.ru/uart/more/53)
 3. - [x] [The New Oil](https://thenewoil.xyz/)
 4. - [x] [Как за нами следят? — ТОПЛЕС](https://www.youtube.com/watch?v=qBDbO_bAdFM)
-5. - [x] [Как взломали систему? — ТОПЛЕС](https://www.youtube.com/watch?v=l9d1HXE7SH0&t=609s)
-6. - [x] [Киберограбление века — ТОПЛЕС](https://www.youtube.com/watch?v=uYpBIrhW114)
-7. - [x] [На что способно кибероружие? — ТОПЛЕС](https://www.youtube.com/watch?v=pBSGl2uq3_4)
-8. - [x] [Как я могу завладеть вами? Позвольте мне перечислить способы.](https://habr.com/ru/companies/ua-hosting/articles/430982/)
+5. - [x] [Киберограбление века — ТОПЛЕС](https://www.youtube.com/watch?v=uYpBIrhW114)
+6. - [x] [На что способно кибероружие? — ТОПЛЕС](https://www.youtube.com/watch?v=pBSGl2uq3_4)
+7. - [x] [Как я могу завладеть вами? Позвольте мне перечислить способы.](https://habr.com/ru/companies/ua-hosting/articles/430982/)
 
 ## Security and Privacy
 
