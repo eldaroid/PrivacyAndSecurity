@@ -2,14 +2,14 @@
 
 ### Как изучать?
 
-1. - [x] [Лекция 05. Security and Privacy](https://www.youtube.com/watch?v=PlL44J5OOWQ&ab_channel=%D0%A4%D0%9A%D0%9D%D0%92%D0%A8%D0%AD%E2%80%94%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8F)
+1. - [x] [Лекция 05. Security and Privacy](https://www.youtube.com/watch?v=PlL44J5OOWQ)
 2. - [x] [Какой пароль защитит от взлома](http://samag.ru/uart/more/53)
 3. - [x] [The New Oil](https://thenewoil.xyz/)
-4. - [x] [Как за нами следят? — ТОПЛЕС](https://www.youtube.com/watch?v=qBDbO_bAdFM&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
-5. - [x] [Как взломали систему? — ТОПЛЕС](https://www.youtube.com/watch?v=l9d1HXE7SH0&t=609s&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
-6. - [x] [Киберограбление века — ТОПЛЕС](https://www.youtube.com/watch?v=uYpBIrhW114&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
-7. - [x] [На что способно кибероружие? — ТОПЛЕС](https://www.youtube.com/watch?v=pBSGl2uq3_4&ab_channel=%D0%A2%D0%9E%D0%9F%D0%9B%D0%95%D0%A1)
-8. - [x] (https://habr.com/ru/companies/ua-hosting/articles/430982/)
+4. - [x] [Как за нами следят? — ТОПЛЕС](https://www.youtube.com/watch?v=qBDbO_bAdFM)
+5. - [x] [Как взломали систему? — ТОПЛЕС](https://www.youtube.com/watch?v=l9d1HXE7SH0&t=609s)
+6. - [x] [Киберограбление века — ТОПЛЕС](https://www.youtube.com/watch?v=uYpBIrhW114)
+7. - [x] [На что способно кибероружие? — ТОПЛЕС](https://www.youtube.com/watch?v=pBSGl2uq3_4)
+8. - [x] [Как я могу завладеть вами? Позвольте мне перечислить способы.](https://habr.com/ru/companies/ua-hosting/articles/430982/)
 
 ## Security and Privacy
 
@@ -139,7 +139,13 @@
 </p>
 </details>
 
-## Популярные личности и безопасность
+## Хакеры
+
+Стивен Леви описал [этику хакера](https://ru.wikipedia.org/wiki/Хакерская_этика): этичекий императив хакера заявляет о том, что каждый уважающий себя хакер должен улучшить мир при помощи своих скиллов и новых технологий.
+
+В MIT зародилось мемное слово `to whack` (разбираться в чем-то)
+
+### Популярные личности и безопасность
 
 1. [Подборка публицистики о хакерах](http://lib.web-malina.com/getbook.php?bid=58)
 
