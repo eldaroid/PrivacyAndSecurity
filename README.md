@@ -138,8 +138,19 @@
 </p>
 </details>
 
-## Хакеры
+## Ссылки
 
+<details><summary style="color: blue; font-weight: bold;">Open</summary>
+<p>
+
+### Вычисление по ip
+
+https://github.com/thewhiteh4t/seeker
+
+</p>
+</details>
+
+## Хакеры
 
 <details><summary style="color: blue; font-weight: bold;">Open</summary>
 <p>
@@ -147,6 +158,9 @@
 Стивен Леви описал [этику хакера](https://ru.wikipedia.org/wiki/Хакерская_этика): этичекий императив хакера заявляет о том, что каждый уважающий себя хакер должен улучшить мир при помощи своих скиллов и новых технологий.
 
 В MIT зародилось мемное слово `to whack` (рубить/разбираться в чем-то) именно оно стало базо для новой культы: белые и темные хакеры.
+
+Как попробовать себя в роли хакера? 
+Для этого воспользуемся [Seeker Kali](https://github.com/thewhiteh4t/seeker) ([пошаговый ютуб ролик](https://www.youtube.com/watch?v=dln4iXjxPnQ), также medium ресурс [Get Anyone’s Location Using Seeker](https://medium.com/@nirmalunagar/get-anyones-location-using-seeker-3848fdf8ac76)), который позволяет создавать ссылки-ловушки и перенаправлять их на обычный сайты (телега, гугл диск и тп) при этом воруя информацию о вас.
 
 ### Популярные личности и безопасность
 
