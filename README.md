@@ -4,11 +4,15 @@
 
 1. - [x] [Лекция 05. Security and Privacy](https://www.youtube.com/watch?v=PlL44J5OOWQ)
 2. - [x] [Какой пароль защитит от взлома](http://samag.ru/uart/more/53)
-3. - [x] [The New Oil](https://thenewoil.xyz/)
-4. - [x] [Как за нами следят? — ТОПЛЕС](https://www.youtube.com/watch?v=qBDbO_bAdFM)
-5. - [x] [Киберограбление века — ТОПЛЕС](https://www.youtube.com/watch?v=uYpBIrhW114)
-6. - [x] [На что способно кибероружие? — ТОПЛЕС](https://www.youtube.com/watch?v=pBSGl2uq3_4)
-7. - [x] [Как я могу завладеть вами? Позвольте мне перечислить способы.](https://habr.com/ru/companies/ua-hosting/articles/430982/)
+3. - [x] [Как за нами следят? — ТОПЛЕС](https://www.youtube.com/watch?v=qBDbO_bAdFM)
+4. - [x] [Киберограбление века — ТОПЛЕС](https://www.youtube.com/watch?v=uYpBIrhW114)
+5. - [x] [На что способно кибероружие? — ТОПЛЕС](https://www.youtube.com/watch?v=pBSGl2uq3_4)
+6. - [x] [Как я могу завладеть вами? Позвольте мне перечислить способы.](https://habr.com/ru/companies/ua-hosting/articles/430982/)
+
+### Карты киберугроз
+
+1. - [x] [Интерактивная карта кибеугроз - kaspersky](https://cybermap.kaspersky.com/ru)
+2. - [x] [Live cyber threat map - checkpoint](https://threatmap.checkpoint.com/)
 
 ## Security and Privacy
 
